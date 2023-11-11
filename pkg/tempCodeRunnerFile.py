@@ -1,0 +1,1 @@
+open(meun.json, 'r', encoding='utf-8')
