@@ -25,6 +25,6 @@ process_data(menu_data, discount_rate)
 # 顯示打折後
 print("\n打折後的菜單:")
 print_json(menu_data)
-    # 寫入 output.json
+# 寫入 output.json
 write_json(menu_data, OUTPUT_FILE)
 print(f"菜單已寫入 {OUTPUT_FILE}")
